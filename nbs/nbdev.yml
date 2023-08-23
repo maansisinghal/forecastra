@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "forecastra"
+  site-url: "https://maansisinghal.github.io/forecastra"
+  description: "Demo"
+  repo-branch: main
+  repo-url: "https://github.com/maansisinghal/forecastra"
